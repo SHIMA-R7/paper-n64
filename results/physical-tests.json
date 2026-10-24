@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-24",
+  "printer": "Brother DCP-J1270N",
+  "media": "plain A4",
+  "scan_dpi": 1200,
+  "independent_scans": true,
+  "tests": [
+    {
+      "condition": "normal",
+      "scan": "scan-smw-v8-1200dpi-20261024-194351.bmp",
+      "whole_tiles": 310,
+      "unknown_data_bytes": 0,
+      "complete": true,
+      "original_exact_match": true,
+      "file": {
+        "format": 8,
+        "name": "SuperMarioWorld.sfc",
+        "raw_bytes": 524288,
+        "raw_sha256": "c6808e082ab343be554d07f2b3eb157c3c5134b364a2ffb3806a67f17e0992d0",
+        "compression": "xz",
+        "compressed_bytes": 313572,
+        "compressed_sha256": "f24a8871fcf63559f2b3a1f845813a45678e81a2e3f1318da98fce9781bd4bce"
+      }
+    },
+    {
+      "condition": "crumpled",
+      "scan": "scan-smw-v8-crumpled-1200dpi-20261024-202805.bmp",
+      "whole_tiles": 323,
+      "unknown_data_bytes": 0,
+      "complete": true,
+      "original_exact_match": true,
+      "file": {
+        "format": 8,
+        "name": "SuperMarioWorld.sfc",
+        "raw_bytes": 524288,
+        "raw_sha256": "c6808e082ab343be554d07f2b3eb157c3c5134b364a2ffb3806a67f17e0992d0",
+        "compression": "xz",
+        "compressed_bytes": 313572,
+        "compressed_sha256": "f24a8871fcf63559f2b3a1f845813a45678e81a2e3f1318da98fce9781bd4bce"
+      }
+    },
+    {
+      "condition": "folded-pocket-5min",
+      "scan": "scan-smw-v8-folded-pocket-1200dpi-20261024-203913.bmp",
+      "whole_tiles": 328,
+      "unknown_data_bytes": 0,
+      "complete": true,
+      "original_exact_match": true,
+      "file": {
+        "format": 8,
+        "name": "SuperMarioWorld.sfc",
+        "raw_bytes": 524288,
+        "raw_sha256": "c6808e082ab343be554d07f2b3eb157c3c5134b364a2ffb3806a67f17e0992d0",
+        "compression": "xz",
+        "compressed_bytes": 313572,
+        "compressed_sha256": "f24a8871fcf63559f2b3a1f845813a45678e81a2e3f1318da98fce9781bd4bce"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-24",
+  "python": "3.12.14",
+  "isolated_checkout_without_vendor": true,
+  "unit_tests": 4,
+  "unit_test_result": "passed",
+  "synthetic_roundtrip": {
+    "input_bytes": 316000,
+    "tiles_recovered": 342,
+    "complete": true,
+    "original_exact_match": true,
+    "raw_sha256": "5c98727587c6d04304f38d02aa4b0fb40010cd375626b6a40755f49848e508b1"
+  },
+  "note": "Synthetic file contains pseudorandom bytes, not a game ROM. This is a software-only image roundtrip, separate from physical paper tests."
+}

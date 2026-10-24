@@ -1,0 +1,221 @@
+{
+  "note": "Research-inspired baselines, NOT reproductions of HiQ or Bulan's EM model.\nNo payload labels are used to initialize, fit or select parameters.\n",
+  "results": [
+    {
+      "density": 200,
+      "colors": 4,
+      "methods": {
+        "rgb_kmeans": {
+          "bit_errors": 538,
+          "bits": 32768,
+          "ber": 0.01641845703125,
+          "exact": false
+        },
+        "rgb_gaussian_em": {
+          "bit_errors": 78,
+          "bits": 32768,
+          "ber": 0.00238037109375,
+          "exact": false
+        },
+        "optical_density_kmeans": {
+          "bit_errors": 392,
+          "bits": 32768,
+          "ber": 0.011962890625,
+          "exact": false
+        },
+        "optical_density_gaussian_em": {
+          "bit_errors": 288,
+          "bits": 32768,
+          "ber": 0.0087890625,
+          "exact": false
+        },
+        "swatch_density_linear_unmix": {
+          "bit_errors": 459,
+          "bits": 32768,
+          "ber": 0.014007568359375,
+          "exact": false
+        }
+      }
+    },
+    {
+      "density": 200,
+      "colors": 8,
+      "methods": {
+        "rgb_kmeans": {
+          "bit_errors": 4033,
+          "bits": 49152,
+          "ber": 0.08205159505208333,
+          "exact": false
+        },
+        "rgb_gaussian_em": {
+          "bit_errors": 2879,
+          "bits": 49152,
+          "ber": 0.058573404947916664,
+          "exact": false
+        },
+        "optical_density_kmeans": {
+          "bit_errors": 4204,
+          "bits": 49152,
+          "ber": 0.08553059895833333,
+          "exact": false
+        },
+        "optical_density_gaussian_em": {
+          "bit_errors": 4389,
+          "bits": 49152,
+          "ber": 0.08929443359375,
+          "exact": false
+        },
+        "swatch_density_linear_unmix": {
+          "bit_errors": 2407,
+          "bits": 49152,
+          "ber": 0.048970540364583336,
+          "exact": false
+        }
+      }
+    },
+    {
+      "density": 300,
+      "colors": 4,
+      "methods": {
+        "rgb_kmeans": {
+          "bit_errors": 4486,
+          "bits": 32768,
+          "ber": 0.13690185546875,
+          "exact": false
+        },
+        "rgb_gaussian_em": {
+          "bit_errors": 4655,
+          "bits": 32768,
+          "ber": 0.142059326171875,
+          "exact": false
+        },
+        "optical_density_kmeans": {
+          "bit_errors": 9420,
+          "bits": 32768,
+          "ber": 0.2874755859375,
+          "exact": false
+        },
+        "optical_density_gaussian_em": {
+          "bit_errors": 7378,
+          "bits": 32768,
+          "ber": 0.22515869140625,
+          "exact": false
+        },
+        "swatch_density_linear_unmix": {
+          "bit_errors": 3180,
+          "bits": 32768,
+          "ber": 0.0970458984375,
+          "exact": false
+        }
+      }
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "methods": {
+        "rgb_kmeans": {
+          "bit_errors": 21105,
+          "bits": 49152,
+          "ber": 0.42938232421875,
+          "exact": false
+        },
+        "rgb_gaussian_em": {
+          "bit_errors": 20552,
+          "bits": 49152,
+          "ber": 0.4181315104166667,
+          "exact": false
+        },
+        "optical_density_kmeans": {
+          "bit_errors": 22444,
+          "bits": 49152,
+          "ber": 0.4566243489583333,
+          "exact": false
+        },
+        "optical_density_gaussian_em": {
+          "bit_errors": 21531,
+          "bits": 49152,
+          "ber": 0.43804931640625,
+          "exact": false
+        },
+        "swatch_density_linear_unmix": {
+          "bit_errors": 21351,
+          "bits": 49152,
+          "ber": 0.43438720703125,
+          "exact": false
+        }
+      }
+    },
+    {
+      "density": 400,
+      "colors": 4,
+      "methods": {
+        "rgb_kmeans": {
+          "bit_errors": 14547,
+          "bits": 32768,
+          "ber": 0.443939208984375,
+          "exact": false
+        },
+        "rgb_gaussian_em": {
+          "bit_errors": 13546,
+          "bits": 32768,
+          "ber": 0.41339111328125,
+          "exact": false
+        },
+        "optical_density_kmeans": {
+          "bit_errors": 14525,
+          "bits": 32768,
+          "ber": 0.443267822265625,
+          "exact": false
+        },
+        "optical_density_gaussian_em": {
+          "bit_errors": 14137,
+          "bits": 32768,
+          "ber": 0.431427001953125,
+          "exact": false
+        },
+        "swatch_density_linear_unmix": {
+          "bit_errors": 13381,
+          "bits": 32768,
+          "ber": 0.408355712890625,
+          "exact": false
+        }
+      }
+    },
+    {
+      "density": 400,
+      "colors": 8,
+      "methods": {
+        "rgb_kmeans": {
+          "bit_errors": 22489,
+          "bits": 49152,
+          "ber": 0.4575398763020833,
+          "exact": false
+        },
+        "rgb_gaussian_em": {
+          "bit_errors": 21592,
+          "bits": 49152,
+          "ber": 0.4392903645833333,
+          "exact": false
+        },
+        "optical_density_kmeans": {
+          "bit_errors": 22068,
+          "bits": 49152,
+          "ber": 0.448974609375,
+          "exact": false
+        },
+        "optical_density_gaussian_em": {
+          "bit_errors": 21692,
+          "bits": 49152,
+          "ber": 0.4413248697916667,
+          "exact": false
+        },
+        "swatch_density_linear_unmix": {
+          "bit_errors": 21266,
+          "bits": 49152,
+          "ber": 0.4326578776041667,
+          "exact": false
+        }
+      }
+    }
+  ]
+}

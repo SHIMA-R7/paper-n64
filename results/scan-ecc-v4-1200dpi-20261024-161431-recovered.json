@@ -1,0 +1,948 @@
+{
+  "scan": "output\\paper-n64\\scan-ecc-v4-1200dpi-20261024-161431.bmp",
+  "rotation": 0,
+  "panels": [
+    {
+      "density": 200,
+      "colors": 2,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 4,
+      "total_blocks": 4,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 270,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 11
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 8
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 13
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 16
+        }
+      ],
+      "sha256": "c8a9527b4c03683ba9a6e8ca606533a922886303ab9de8c6a4f5a44d3a7bc7e9",
+      "blind_grid_parameters": [
+        [
+          0.09999999999999998,
+          0.12999999999999998,
+          1.0,
+          0.9992
+        ],
+        [
+          0.09999999999999998,
+          0.14000000000000007,
+          1.004,
+          0.9972
+        ],
+        [
+          0.06999999999999998,
+          0.20000000000000007,
+          1.004,
+          0.9946
+        ],
+        [
+          0.09999999999999998,
+          0.17000000000000007,
+          0.9994,
+          0.9974
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 4,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 8,
+      "total_blocks": 8,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 540,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 11
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 4
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 8,
+          "corrected_bytes": 20
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "gaussian",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 3
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 14
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 15
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 13
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "gaussian",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 2
+        }
+      ],
+      "sha256": "a496e5658b2a35a5c8f9e98e63f6531c8b4f410ce485acd40c7baafcaf99063d",
+      "blind_grid_parameters": [
+        [
+          -0.03,
+          0.12999999999999998,
+          1.002,
+          0.9982
+        ],
+        [
+          -0.14,
+          0.09999999999999998,
+          0.9896,
+          1.0
+        ],
+        [
+          -0.06999999999999998,
+          0.20000000000000007,
+          1.0014,
+          0.9954
+        ],
+        [
+          -0.18999999999999997,
+          0.23000000000000007,
+          0.9902,
+          0.994
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 8,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 4,
+      "total_blocks": 12,
+      "xor_recovered": [],
+      "complete": false,
+      "sha256_match": false,
+      "payload_bytes": 0,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "gaussian",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 12
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "gaussian",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 11
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "gaussian",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 15
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "gaussian",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 16
+        }
+      ],
+      "sha256": null,
+      "blind_grid_parameters": [
+        [
+          -0.12999999999999998,
+          0.03,
+          1.002,
+          1.0024
+        ],
+        [
+          -0.06999999999999998,
+          0.03,
+          1.0038,
+          1.0016
+        ],
+        [
+          -0.2,
+          0.06999999999999998,
+          1.002,
+          0.9994
+        ],
+        [
+          -0.06999999999999998,
+          0.09999999999999998,
+          1.0074,
+          0.9992
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 2,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 4,
+      "total_blocks": 4,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 270,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 3
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 1
+        }
+      ],
+      "sha256": "c8a9527b4c03683ba9a6e8ca606533a922886303ab9de8c6a4f5a44d3a7bc7e9",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          -0.14,
+          0.9986,
+          0.9896
+        ],
+        [
+          -0.03,
+          -0.2,
+          1.0008,
+          0.9934
+        ],
+        [
+          0.0,
+          -0.2,
+          0.9994,
+          0.9968
+        ],
+        [
+          0.06999999999999998,
+          -0.23,
+          0.9982,
+          0.9968
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 4,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 8,
+      "total_blocks": 8,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 540,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 2
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 6
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 7
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 10
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 2
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 6
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 4
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 4
+        }
+      ],
+      "sha256": "a496e5658b2a35a5c8f9e98e63f6531c8b4f410ce485acd40c7baafcaf99063d",
+      "blind_grid_parameters": [
+        [
+          0.09999999999999998,
+          -0.12999999999999998,
+          1.0014,
+          0.9896
+        ],
+        [
+          0.0,
+          -0.14,
+          0.9896,
+          0.9926
+        ],
+        [
+          0.09999999999999998,
+          -0.26,
+          1.004,
+          0.9974
+        ],
+        [
+          -0.03,
+          -0.26,
+          0.9896,
+          0.9956
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 8,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 8,
+      "total_blocks": 12,
+      "xor_recovered": [],
+      "complete": false,
+      "sha256_match": false,
+      "payload_bytes": 0,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 9
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "kmeans",
+          "decision": "bit",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 16
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 14
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "gaussian",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.4,
+          "erasures": 0,
+          "corrected_bytes": 16
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 7
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "gaussian",
+          "decision": "symbol",
+          "shift": [
+            -0.2,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 8,
+          "corrected_bytes": 20
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 13
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "kmeans",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 15
+        }
+      ],
+      "sha256": null,
+      "blind_grid_parameters": [
+        [
+          -0.33000000000000007,
+          -0.09999999999999998,
+          1.0016,
+          0.9914
+        ],
+        [
+          -0.2,
+          -0.09999999999999998,
+          1.0074,
+          0.9954
+        ],
+        [
+          -0.30000000000000004,
+          -0.2,
+          1.0066,
+          0.9954
+        ],
+        [
+          -0.2,
+          -0.17,
+          1.0054,
+          0.9974
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 2,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 0,
+      "total_blocks": 4,
+      "xor_recovered": [],
+      "complete": false,
+      "sha256_match": false,
+      "payload_bytes": 0,
+      "details": [],
+      "sha256": null,
+      "blind_grid_parameters": [
+        [
+          0.37,
+          0.0,
+          0.9966,
+          0.9966
+        ],
+        [
+          0.27,
+          0.0,
+          0.9976,
+          1.0066
+        ],
+        [
+          0.30000000000000004,
+          0.0,
+          0.9966,
+          0.9908
+        ],
+        [
+          0.4,
+          0.03,
+          0.996,
+          0.9936
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 4,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 0,
+      "total_blocks": 8,
+      "xor_recovered": [],
+      "complete": false,
+      "sha256_match": false,
+      "payload_bytes": 0,
+      "details": [],
+      "sha256": null,
+      "blind_grid_parameters": [
+        [
+          -0.03,
+          0.0,
+          1.0006,
+          0.9994
+        ],
+        [
+          -0.03,
+          -0.03,
+          1.0,
+          0.996
+        ],
+        [
+          -0.09999999999999998,
+          0.0,
+          1.0,
+          0.9946
+        ],
+        [
+          -0.12999999999999998,
+          0.03,
+          0.9992,
+          0.9956
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 0,
+      "total_blocks": 12,
+      "xor_recovered": [],
+      "complete": false,
+      "sha256_match": false,
+      "payload_bytes": 0,
+      "details": [],
+      "sha256": null,
+      "blind_grid_parameters": [
+        [
+          -0.17,
+          -0.03999999999999998,
+          1.0022,
+          1.0062
+        ],
+        [
+          -0.09999999999999998,
+          -0.06999999999999998,
+          1.002,
+          0.9934
+        ],
+        [
+          -0.23,
+          -0.33000000000000007,
+          1.0028,
+          1.0104
+        ],
+        [
+          -0.17,
+          -0.27,
+          1.0036,
+          0.994
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 2,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 0,
+      "total_blocks": 4,
+      "xor_recovered": [],
+      "complete": false,
+      "sha256_match": false,
+      "payload_bytes": 0,
+      "details": [],
+      "sha256": null,
+      "blind_grid_parameters": [
+        [
+          0.03,
+          0.43000000000000005,
+          0.9976,
+          0.9936
+        ],
+        [
+          -0.06999999999999998,
+          0.27,
+          0.9966,
+          0.9914
+        ],
+        [
+          0.0,
+          0.17000000000000007,
+          0.9966,
+          0.9916
+        ],
+        [
+          0.09999999999999998,
+          0.20000000000000007,
+          0.9966,
+          0.9914
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 4,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 0,
+      "total_blocks": 8,
+      "xor_recovered": [],
+      "complete": false,
+      "sha256_match": false,
+      "payload_bytes": 0,
+      "details": [],
+      "sha256": null,
+      "blind_grid_parameters": [
+        [
+          0.09999999999999998,
+          0.43000000000000005,
+          1.0,
+          1.0026
+        ],
+        [
+          0.09999999999999998,
+          0.33000000000000007,
+          1.0006,
+          0.9934
+        ],
+        [
+          0.03,
+          0.27,
+          1.0,
+          0.9928
+        ],
+        [
+          0.03,
+          0.09999999999999998,
+          1.0,
+          0.9934
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 0,
+      "total_blocks": 12,
+      "xor_recovered": [],
+      "complete": false,
+      "sha256_match": false,
+      "payload_bytes": 0,
+      "details": [],
+      "sha256": null,
+      "blind_grid_parameters": [
+        [
+          0.49,
+          0.33000000000000007,
+          1.0104,
+          0.9976
+        ],
+        [
+          -0.12999999999999998,
+          0.30000000000000004,
+          1.0022,
+          1.002
+        ],
+        [
+          -0.23,
+          0.17000000000000007,
+          1.0014,
+          0.9928
+        ],
+        [
+          -0.09,
+          0.03999999999999998,
+          1.0092,
+          0.9914
+        ]
+      ]
+    }
+  ]
+}

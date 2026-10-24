@@ -1,0 +1,225 @@
+{
+  "rows": [
+    {
+      "density": 200,
+      "colors": 8,
+      "old_accuracy": 0.9782986111111112,
+      "new_accuracy": 0.9890407986111112,
+      "old_complete": true,
+      "new_complete": true,
+      "old_row_variation": 1.5091629863507872,
+      "new_row_variation": 1.7311271379580038,
+      "smoothed_row_profile_correlation": 0.9679675931867688
+    },
+    {
+      "density": 200,
+      "colors": 10,
+      "old_accuracy": 0.970703125,
+      "new_accuracy": 0.9722222222222222,
+      "old_complete": true,
+      "new_complete": true,
+      "old_row_variation": 0.9206989433412927,
+      "new_row_variation": 0.8471400359419183,
+      "smoothed_row_profile_correlation": 0.9619800132901041
+    },
+    {
+      "density": 200,
+      "colors": 12,
+      "old_accuracy": 0.9475911458333334,
+      "new_accuracy": 0.9391276041666666,
+      "old_complete": true,
+      "new_complete": true,
+      "old_row_variation": 1.0491115655069643,
+      "new_row_variation": 1.0553967839596474,
+      "smoothed_row_profile_correlation": 0.9782874363485277
+    },
+    {
+      "density": 200,
+      "colors": 16,
+      "old_accuracy": 0.9066840277777778,
+      "new_accuracy": 0.9166666666666666,
+      "old_complete": true,
+      "new_complete": true,
+      "old_row_variation": 0.9461212530412025,
+      "new_row_variation": 1.0811196831826357,
+      "smoothed_row_profile_correlation": 0.9612579523561159
+    },
+    {
+      "density": 200,
+      "colors": 20,
+      "old_accuracy": 0.8855251736111112,
+      "new_accuracy": 0.8825954861111112,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 1.1632552486142516,
+      "new_row_variation": 1.2448342003513446,
+      "smoothed_row_profile_correlation": 0.967636139765006
+    },
+    {
+      "density": 250,
+      "colors": 8,
+      "old_accuracy": 0.8411458333333334,
+      "new_accuracy": 0.8368055555555556,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 2.84382746543661,
+      "new_row_variation": 2.9659053455820397,
+      "smoothed_row_profile_correlation": 0.98907487507315
+    },
+    {
+      "density": 250,
+      "colors": 10,
+      "old_accuracy": 0.7815755208333334,
+      "new_accuracy": 0.1371527777777778,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 2.976123593559737,
+      "new_row_variation": 2.925420480157316,
+      "smoothed_row_profile_correlation": 0.995353094277804
+    },
+    {
+      "density": 250,
+      "colors": 12,
+      "old_accuracy": 0.6839192708333334,
+      "new_accuracy": 0.6559244791666666,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 2.333125959645001,
+      "new_row_variation": 2.163552929521992,
+      "smoothed_row_profile_correlation": 0.9731628255965613
+    },
+    {
+      "density": 250,
+      "colors": 16,
+      "old_accuracy": 0.6783854166666666,
+      "new_accuracy": 0.6766493055555556,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 3.039594627131081,
+      "new_row_variation": 2.948617544685995,
+      "smoothed_row_profile_correlation": 0.9913663892929395
+    },
+    {
+      "density": 250,
+      "colors": 20,
+      "old_accuracy": 0.5788845486111112,
+      "new_accuracy": 0.5925564236111112,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 3.165609682631982,
+      "new_row_variation": 3.2555769460396546,
+      "smoothed_row_profile_correlation": 0.9950706669228879
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "old_accuracy": 0.18098958333333334,
+      "new_accuracy": 0.7798394097222222,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 11.126100900287671,
+      "new_row_variation": 11.409602131476769,
+      "smoothed_row_profile_correlation": 0.9982187854694781
+    },
+    {
+      "density": 300,
+      "colors": 10,
+      "old_accuracy": 0.1630859375,
+      "new_accuracy": 0.6433376736111112,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 10.190424079287927,
+      "new_row_variation": 10.376128273101447,
+      "smoothed_row_profile_correlation": 0.9975343553868334
+    },
+    {
+      "density": 300,
+      "colors": 12,
+      "old_accuracy": 0.5930989583333334,
+      "new_accuracy": 0.5094401041666666,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 9.02389380627348,
+      "new_row_variation": 9.243888580194039,
+      "smoothed_row_profile_correlation": 0.9995657681814706
+    },
+    {
+      "density": 300,
+      "colors": 16,
+      "old_accuracy": 0.20084635416666666,
+      "new_accuracy": 0.5963541666666666,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 9.619810395769786,
+      "new_row_variation": 9.981459733649821,
+      "smoothed_row_profile_correlation": 0.9964164403659589
+    },
+    {
+      "density": 300,
+      "colors": 20,
+      "old_accuracy": 0.12662760416666666,
+      "new_accuracy": 0.05251736111111111,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 9.35263614403352,
+      "new_row_variation": 9.377146141759582,
+      "smoothed_row_profile_correlation": 0.9993686942700021
+    },
+    {
+      "density": 400,
+      "colors": 8,
+      "old_accuracy": 0.11664496527777778,
+      "new_accuracy": 0.17936197916666666,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 2.009611627587819,
+      "new_row_variation": 2.150345018037272,
+      "smoothed_row_profile_correlation": 0.9612848698379135
+    },
+    {
+      "density": 400,
+      "colors": 10,
+      "old_accuracy": 0.2728949652777778,
+      "new_accuracy": 0.15299479166666666,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 2.043295109601158,
+      "new_row_variation": 2.193321425390677,
+      "smoothed_row_profile_correlation": 0.9702956931209432
+    },
+    {
+      "density": 400,
+      "colors": 12,
+      "old_accuracy": 0.1316189236111111,
+      "new_accuracy": 0.1728515625,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 1.4314939462537448,
+      "new_row_variation": 1.8511956765190711,
+      "smoothed_row_profile_correlation": 0.8608178652865834
+    },
+    {
+      "density": 400,
+      "colors": 16,
+      "old_accuracy": 0.10362413194444445,
+      "new_accuracy": 0.1689453125,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 2.4925094151094838,
+      "new_row_variation": 2.5183136360761056,
+      "smoothed_row_profile_correlation": 0.9806547111801428
+    },
+    {
+      "density": 400,
+      "colors": 20,
+      "old_accuracy": 0.0888671875,
+      "new_accuracy": 0.09483506944444445,
+      "old_complete": false,
+      "new_complete": false,
+      "old_row_variation": 2.868250882868002,
+      "new_row_variation": 3.0673435394297557,
+      "smoothed_row_profile_correlation": 0.9726984091166716
+    }
+  ],
+  "note": "One scan per setting. Row variation is a descriptive proxy; not calibrated banding or statistical evidence."
+}

@@ -1,0 +1,866 @@
+{
+  "scan": "output\\paper-n64\\color-v3-print-1200dpi.png",
+  "rotation": 0,
+  "results": [
+    {
+      "density": 200,
+      "colors": 4,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "75bc62b82ba7ca103f68526213b4267013f9e983dc011269dd8eaac9eb18c071",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "75bc62b82ba7ca103f68526213b4267013f9e983dc011269dd8eaac9eb18c071",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "color_references_rgb": [
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "75bc62b82ba7ca103f68526213b4267013f9e983dc011269dd8eaac9eb18c071",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 8,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "b1b9174e9216b2e1ee7a121eb68f17c923be581fc7510f9e82fd207ea188ce2c",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "b1b9174e9216b2e1ee7a121eb68f17c923be581fc7510f9e82fd207ea188ce2c",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "color_references_rgb": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          255.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "b1b9174e9216b2e1ee7a121eb68f17c923be581fc7510f9e82fd207ea188ce2c",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 4,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "8bbc6056a3788d96c5fe56e08c5d6485eb19576a21cd651dbe64d6ffb91096f1",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "8bbc6056a3788d96c5fe56e08c5d6485eb19576a21cd651dbe64d6ffb91096f1",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "color_references_rgb": [
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "8bbc6056a3788d96c5fe56e08c5d6485eb19576a21cd651dbe64d6ffb91096f1",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "eb6d8f728bd3e0ecd5be800823755ac44616a42bbc610407b5a1d225be0f4c65",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "eb6d8f728bd3e0ecd5be800823755ac44616a42bbc610407b5a1d225be0f4c65",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "color_references_rgb": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          255.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "eb6d8f728bd3e0ecd5be800823755ac44616a42bbc610407b5a1d225be0f4c65",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "density": 400,
+      "colors": 4,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "cf2e1148a0f9ad42998b7e7645896c9a39c131b9099b1f20129ed3a4cfa58a08",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "cf2e1148a0f9ad42998b7e7645896c9a39c131b9099b1f20129ed3a4cfa58a08",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "color_references_rgb": [
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "cf2e1148a0f9ad42998b7e7645896c9a39c131b9099b1f20129ed3a4cfa58a08",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "density": 400,
+      "colors": 8,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "5ccb935146508faae24095d6705486bee20aaabe50a7643c0a59d45369c69e85",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "5ccb935146508faae24095d6705486bee20aaabe50a7643c0a59d45369c69e85",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "color_references_rgb": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          255.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "5ccb935146508faae24095d6705486bee20aaabe50a7643c0a59d45369c69e85",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "density": 480,
+      "colors": 4,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "0002e667345b2c1bdd9f9609a0fa74efb6a39634886132bf622d87be3f3d4dda",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "0002e667345b2c1bdd9f9609a0fa74efb6a39634886132bf622d87be3f3d4dda",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "color_references_rgb": [
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "0002e667345b2c1bdd9f9609a0fa74efb6a39634886132bf622d87be3f3d4dda",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "density": 480,
+      "colors": 8,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "71984ee359f4d4058611b6d7195c9f98f19c22a38bbc4ef337dc4f531c27e96f",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "71984ee359f4d4058611b6d7195c9f98f19c22a38bbc4ef337dc4f531c27e96f",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "color_references_rgb": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          255.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "71984ee359f4d4058611b6d7195c9f98f19c22a38bbc4ef337dc4f531c27e96f",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ],
+        [
+          1.3877787807814457e-17,
+          1.3877787807814457e-17,
+          1.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "density": 600,
+      "colors": 4,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "42c0e92a5030368f621bd249669b1c12b01829554d5188b49eddec73f9aa580b",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "42c0e92a5030368f621bd249669b1c12b01829554d5188b49eddec73f9aa580b",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.05400000000000012,
+        1.0,
+        1.0002
+      ],
+      "color_references_rgb": [
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 32768,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "42c0e92a5030368f621bd249669b1c12b01829554d5188b49eddec73f9aa580b",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          0.04400000000000013,
+          1.0,
+          1.0002
+        ],
+        [
+          1.3877787807814457e-17,
+          0.04400000000000013,
+          1.0,
+          1.0002
+        ],
+        [
+          1.3877787807814457e-17,
+          0.04400000000000013,
+          1.0,
+          1.0002
+        ]
+      ]
+    },
+    {
+      "density": 600,
+      "colors": 8,
+      "direct": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "8163d7d9c39e70c19d92497f35358bfec9b820b3a18043b8349c89c33d4e0d22",
+        "sha256_matches": true
+      },
+      "adaptive": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "8163d7d9c39e70c19d92497f35358bfec9b820b3a18043b8349c89c33d4e0d22",
+        "sha256_matches": true
+      },
+      "blind_grid_parameters": [
+        0.0,
+        0.05400000000000012,
+        1.0,
+        1.0002
+      ],
+      "color_references_rgb": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          0.0,
+          255.0,
+          255.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          255.0
+        ],
+        [
+          255.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ]
+      ],
+      "fixed_unsharp": {
+        "bit_errors": 0,
+        "bits": 49152,
+        "bit_error_rate": 0.0,
+        "symbol_error_rate": 0.0,
+        "sha256": "8163d7d9c39e70c19d92497f35358bfec9b820b3a18043b8349c89c33d4e0d22",
+        "sha256_matches": true
+      },
+      "channel_parameters": [
+        [
+          1.3877787807814457e-17,
+          0.04400000000000013,
+          1.0,
+          1.0002
+        ],
+        [
+          1.3877787807814457e-17,
+          0.04400000000000013,
+          1.0,
+          1.0002
+        ],
+        [
+          1.3877787807814457e-17,
+          0.04400000000000013,
+          1.0,
+          1.0002
+        ]
+      ]
+    }
+  ]
+}

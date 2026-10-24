@@ -1,0 +1,121 @@
+{
+  "target_bytes": 5660452,
+  "target_MiB": 5.398227691650391,
+  "area_per_face_mm": [
+    204.0,
+    291.0
+  ],
+  "faces": 2,
+  "notes": [
+    "3 mm margins; borderless duplex unavailable.",
+    "Core v4 geometry: tile pitch 35 cells, 32x32 bits/layer, 90 data bytes per 128-byte RS codeword, 3+1 XOR.",
+    "Dense tiled production layout, not the large markers/labels/whitespace of diagnostic v4.",
+    "Reserve is area/tile allowance for extra metadata, color calibration, alignment and fold gutters; it is not an empirical durability guarantee.",
+    "Exact tile count uses two faces pooled into groups of four; side-local grouping may slightly reduce capacity.",
+    "ROM emulator/decoder are external. SHA256 and headers need to fit within reserve."
+  ],
+  "rows": [
+    {
+      "colors": 2,
+      "bits_per_cell": 1,
+      "raw_no_overhead": {
+        "cells_per_inch": 496.05255407115095,
+        "max_pitch_um": 51.20425203245051
+      },
+      "hypothetical_70pct_net_efficiency": {
+        "cells_per_inch": 592.8962043592359,
+        "max_pitch_um": 42.840550864127536
+      },
+      "v4_no_extra_reserve": {
+        "cells_per_inch": 749.5490196078431,
+        "max_pitch_um": 33.887043189368775,
+        "dot_width_70pct_um": 23.720930232558143,
+        "scan_pixels_per_cell_1200dpi": 1.600962670363879,
+        "bytes": 5688900,
+        "tiles_x": 172,
+        "tiles_y": 245,
+        "usable_tiles_duplex": 84280
+      },
+      "v4_with_10pct_extra_reserve": {
+        "cells_per_inch": 788.7696078431371,
+        "max_pitch_um": 32.20205209155486,
+        "dot_width_70pct_um": 22.541436464088402,
+        "scan_pixels_per_cell_1200dpi": 1.5213567917270012,
+        "bytes": 5673780,
+        "tiles_x": 181,
+        "tiles_y": 258,
+        "usable_tiles_duplex": 84056
+      },
+      "duplex_capacity_at_200cpi": 355320,
+      "duplex_capacity_at_300cpi": 809460
+    },
+    {
+      "colors": 4,
+      "bits_per_cell": 2,
+      "raw_no_overhead": {
+        "cells_per_inch": 350.76212480861733,
+        "max_pitch_um": 72.41374767546165
+      },
+      "hypothetical_70pct_net_efficiency": {
+        "cells_per_inch": 419.2409266421807,
+        "max_pitch_um": 60.585688051583595
+      },
+      "v4_no_extra_reserve": {
+        "cells_per_inch": 531.5670103092783,
+        "max_pitch_um": 47.783251231527096,
+        "dot_width_70pct_um": 33.44827586206897,
+        "scan_pixels_per_cell_1200dpi": 2.2574764361351383,
+        "bytes": 5684580,
+        "tiles_x": 121,
+        "tiles_y": 174,
+        "usable_tiles_duplex": 42108
+      },
+      "v4_with_10pct_extra_reserve": {
+        "cells_per_inch": 557.8039215686275,
+        "max_pitch_um": 45.53571428571428,
+        "dot_width_70pct_um": 31.874999999999993,
+        "scan_pixels_per_cell_1200dpi": 2.151293588301462,
+        "bytes": 5660820,
+        "tiles_x": 128,
+        "tiles_y": 182,
+        "usable_tiles_duplex": 41932
+      },
+      "duplex_capacity_at_200cpi": 710640,
+      "duplex_capacity_at_300cpi": 1618920
+    },
+    {
+      "colors": 8,
+      "bits_per_cell": 3,
+      "raw_no_overhead": {
+        "cells_per_inch": 286.39607562518034,
+        "max_pitch_um": 88.68836608376625
+      },
+      "hypothetical_70pct_net_efficiency": {
+        "cells_per_inch": 342.30878318831213,
+        "max_pitch_um": 74.20201072090768
+      },
+      "v4_no_extra_reserve": {
+        "cells_per_inch": 433.80756013745696,
+        "max_pitch_um": 58.551307847082505,
+        "dot_width_70pct_um": 40.98591549295775,
+        "scan_pixels_per_cell_1200dpi": 2.7662035203346065,
+        "bytes": 5693490,
+        "tiles_x": 99,
+        "tiles_y": 142,
+        "usable_tiles_duplex": 28116
+      },
+      "v4_with_10pct_extra_reserve": {
+        "cells_per_inch": 457.5735294117647,
+        "max_pitch_um": 55.51020408163265,
+        "dot_width_70pct_um": 38.857142857142854,
+        "scan_pixels_per_cell_1200dpi": 2.6225293266913066,
+        "bytes": 5702400,
+        "tiles_x": 105,
+        "tiles_y": 149,
+        "usable_tiles_duplex": 28161
+      },
+      "duplex_capacity_at_200cpi": 1065960,
+      "duplex_capacity_at_300cpi": 2428380
+    }
+  ]
+}

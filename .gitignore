@@ -1,0 +1,26 @@
+# Only project sources, notes, selected reports and publication photos are tracked.
+/*
+!/*.py
+!/*.ps1
+!/*.md
+!/.gitignore
+!/.gitattributes
+!/requirements.txt
+!/photos/
+!/results/
+!/tests/
+!/docs/
+__pycache__/
+*.py[cod]
+.venv/
+*.sfc
+*.z64
+*.n64
+*.v64
+*.smc
+*.xz
+*.bmp
+*.devmode
+tile-*.json
+tile-*.bin
+restored-*

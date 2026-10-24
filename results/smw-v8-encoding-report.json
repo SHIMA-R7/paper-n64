@@ -1,0 +1,33 @@
+{
+  "format": 8,
+  "file": {
+    "format": 8,
+    "name": "SuperMarioWorld.sfc",
+    "raw_bytes": 524288,
+    "raw_sha256": "c6808e082ab343be554d07f2b3eb157c3c5134b364a2ffb3806a67f17e0992d0",
+    "compression": "xz",
+    "compressed_bytes": 313572,
+    "compressed_sha256": "f24a8871fcf63559f2b3a1f845813a45678e81a2e3f1318da98fce9781bd4bce"
+  },
+  "container_bytes": 313856,
+  "data_capacity_bytes": 317376,
+  "printed_tiles": 342,
+  "physical_slots": 351,
+  "inner_codewords": 8208,
+  "verified_raster_cells": 2451456,
+  "layout": {
+    "cols": 13,
+    "rows": 27,
+    "pitch_cells": [
+      120,
+      80
+    ],
+    "cell_mm": 0.127,
+    "origin_mm": [
+      5.939999999999998,
+      11.340000000000003
+    ]
+  },
+  "outer": "RS(18,16) per tile-byte, any 2 missing tiles per interleaved group",
+  "software_tests": "exact raster colors; 32 bad bytes per inner codeword; 1 inner word lost per XOR group; every full physical tile row and column erased and whole ROM recovered"
+}

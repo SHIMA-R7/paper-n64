@@ -1,0 +1,1734 @@
+{
+  "scan": "output\\paper-n64\\ecc-v4-print-1200dpi.png",
+  "rotation": 0,
+  "panels": [
+    {
+      "density": 200,
+      "colors": 2,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 4,
+      "total_blocks": 4,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 270,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "c8a9527b4c03683ba9a6e8ca606533a922886303ab9de8c6a4f5a44d3a7bc7e9",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 4,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 8,
+      "total_blocks": 8,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 540,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "a496e5658b2a35a5c8f9e98e63f6531c8b4f410ce485acd40c7baafcaf99063d",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 8,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 12,
+      "total_blocks": 12,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 810,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "9e24bd85c374f62caca8f0ef398315205cbe40344ffff98633a0c3ef868e1d9a",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 2,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 4,
+      "total_blocks": 4,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 270,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "c8a9527b4c03683ba9a6e8ca606533a922886303ab9de8c6a4f5a44d3a7bc7e9",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 4,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 8,
+      "total_blocks": 8,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 540,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "a496e5658b2a35a5c8f9e98e63f6531c8b4f410ce485acd40c7baafcaf99063d",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 200,
+      "colors": 8,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 12,
+      "total_blocks": 12,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 810,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "9e24bd85c374f62caca8f0ef398315205cbe40344ffff98633a0c3ef868e1d9a",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 2,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 4,
+      "total_blocks": 4,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 270,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "c8a9527b4c03683ba9a6e8ca606533a922886303ab9de8c6a4f5a44d3a7bc7e9",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 4,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 8,
+      "total_blocks": 8,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 540,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "a496e5658b2a35a5c8f9e98e63f6531c8b4f410ce485acd40c7baafcaf99063d",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "dot_width_percent": 100,
+      "rs_crc_blocks": 12,
+      "total_blocks": 12,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 810,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "9e24bd85c374f62caca8f0ef398315205cbe40344ffff98633a0c3ef868e1d9a",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 2,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 4,
+      "total_blocks": 4,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 270,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "c8a9527b4c03683ba9a6e8ca606533a922886303ab9de8c6a4f5a44d3a7bc7e9",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 4,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 8,
+      "total_blocks": 8,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 540,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "a496e5658b2a35a5c8f9e98e63f6531c8b4f410ce485acd40c7baafcaf99063d",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9922,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9922,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9922,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9922,
+          0.9896
+        ]
+      ]
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "dot_width_percent": 70,
+      "rs_crc_blocks": 12,
+      "total_blocks": 12,
+      "xor_recovered": [],
+      "complete": true,
+      "sha256_match": true,
+      "payload_bytes": 810,
+      "details": [
+        {
+          "layer": 0,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 0,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 1,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 2,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 0,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 1,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        },
+        {
+          "layer": 2,
+          "block": 3,
+          "model": "swatch",
+          "decision": "symbol",
+          "shift": [
+            0,
+            0
+          ],
+          "neighbor_strength": 0.0,
+          "erasures": 0,
+          "corrected_bytes": 0
+        }
+      ],
+      "sha256": "9e24bd85c374f62caca8f0ef398315205cbe40344ffff98633a0c3ef868e1d9a",
+      "blind_grid_parameters": [
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ],
+        [
+          0.0,
+          0.0,
+          0.9896,
+          0.9896
+        ]
+      ]
+    }
+  ]
+}

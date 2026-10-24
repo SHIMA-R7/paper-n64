@@ -1,0 +1,75 @@
+{
+  "note": "One existing scan. RGB optical channel registration, not independent physical ink registration. Fixed 0.4 neighbor correction, no ground-truth parameter fitting. No ECC. Experimental results, no exact reconstruction.",
+  "rows": [
+    {
+      "density": 200,
+      "colors": 4,
+      "baseline_ber": 0.0306396484375,
+      "channel_ber": 0.03045654296875,
+      "channel_fixed_unsharp_ber": 0.01641845703125
+    },
+    {
+      "density": 200,
+      "colors": 8,
+      "baseline_ber": 0.11244710286458333,
+      "channel_ber": 0.11212158203125,
+      "channel_fixed_unsharp_ber": 0.08087158203125
+    },
+    {
+      "density": 300,
+      "colors": 4,
+      "baseline_ber": 0.186492919921875,
+      "channel_ber": 0.18597412109375,
+      "channel_fixed_unsharp_ber": 0.1220703125
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "baseline_ber": 0.440185546875,
+      "channel_ber": 0.4322509765625,
+      "channel_fixed_unsharp_ber": 0.4269205729166667
+    },
+    {
+      "density": 400,
+      "colors": 4,
+      "baseline_ber": 0.4423828125,
+      "channel_ber": 0.4415283203125,
+      "channel_fixed_unsharp_ber": 0.44390869140625
+    },
+    {
+      "density": 400,
+      "colors": 8,
+      "baseline_ber": 0.45367431640625,
+      "channel_ber": 0.4549153645833333,
+      "channel_fixed_unsharp_ber": 0.4577840169270833
+    },
+    {
+      "density": 480,
+      "colors": 4,
+      "baseline_ber": 0.4466552734375,
+      "channel_ber": 0.447723388671875,
+      "channel_fixed_unsharp_ber": 0.446685791015625
+    },
+    {
+      "density": 480,
+      "colors": 8,
+      "baseline_ber": 0.4709879557291667,
+      "channel_ber": 0.4709879557291667,
+      "channel_fixed_unsharp_ber": 0.4725138346354167
+    },
+    {
+      "density": 600,
+      "colors": 4,
+      "baseline_ber": 0.474029541015625,
+      "channel_ber": 0.46929931640625,
+      "channel_fixed_unsharp_ber": 0.469329833984375
+    },
+    {
+      "density": 600,
+      "colors": 8,
+      "baseline_ber": 0.4781087239583333,
+      "channel_ber": 0.4781087239583333,
+      "channel_fixed_unsharp_ber": 0.4821980794270833
+    }
+  ]
+}

@@ -1,0 +1,1058 @@
+{
+  "scan_file": "output\\paper-n64\\calibration-v6-print-1200dpi.png",
+  "rotation_180": false,
+  "calibration_only": true,
+  "fit_split": "A only",
+  "validation_split": "B, no fitting or model selection",
+  "palette_selection": "A large patches only; greedy max-min scanner RGB-derived Lab, 20 nested colors",
+  "palettes": {
+    "8": {
+      "indices": [
+        0,
+        4095,
+        15,
+        240,
+        3840,
+        3915,
+        4032,
+        143
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          0,
+          0,
+          255
+        ],
+        [
+          0,
+          255,
+          0
+        ],
+        [
+          255,
+          0,
+          0
+        ],
+        [
+          255,
+          68,
+          187
+        ],
+        [
+          255,
+          204,
+          0
+        ],
+        [
+          0,
+          136,
+          255
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          68.0,
+          187.0
+        ],
+        [
+          255.0,
+          204.0,
+          0.0
+        ],
+        [
+          0.0,
+          136.0,
+          255.0
+        ]
+      ],
+      "min_scanner_lab_distance": 79.44614796137284
+    },
+    "10": {
+      "indices": [
+        0,
+        4095,
+        15,
+        240,
+        3840,
+        3915,
+        4032,
+        143,
+        132,
+        2660
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          0,
+          0,
+          255
+        ],
+        [
+          0,
+          255,
+          0
+        ],
+        [
+          255,
+          0,
+          0
+        ],
+        [
+          255,
+          68,
+          187
+        ],
+        [
+          255,
+          204,
+          0
+        ],
+        [
+          0,
+          136,
+          255
+        ],
+        [
+          0,
+          136,
+          68
+        ],
+        [
+          170,
+          102,
+          68
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          68.0,
+          187.0
+        ],
+        [
+          255.0,
+          204.0,
+          0.0
+        ],
+        [
+          0.0,
+          136.0,
+          255.0
+        ],
+        [
+          0.0,
+          136.0,
+          68.0
+        ],
+        [
+          170.0,
+          102.0,
+          68.0
+        ]
+      ],
+      "min_scanner_lab_distance": 63.31084950589537
+    },
+    "12": {
+      "indices": [
+        0,
+        4095,
+        15,
+        240,
+        3840,
+        3915,
+        4032,
+        143,
+        132,
+        2660,
+        261,
+        155
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          0,
+          0,
+          255
+        ],
+        [
+          0,
+          255,
+          0
+        ],
+        [
+          255,
+          0,
+          0
+        ],
+        [
+          255,
+          68,
+          187
+        ],
+        [
+          255,
+          204,
+          0
+        ],
+        [
+          0,
+          136,
+          255
+        ],
+        [
+          0,
+          136,
+          68
+        ],
+        [
+          170,
+          102,
+          68
+        ],
+        [
+          17,
+          0,
+          85
+        ],
+        [
+          0,
+          153,
+          187
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          68.0,
+          187.0
+        ],
+        [
+          255.0,
+          204.0,
+          0.0
+        ],
+        [
+          0.0,
+          136.0,
+          255.0
+        ],
+        [
+          0.0,
+          136.0,
+          68.0
+        ],
+        [
+          170.0,
+          102.0,
+          68.0
+        ],
+        [
+          17.0,
+          0.0,
+          85.0
+        ],
+        [
+          0.0,
+          153.0,
+          187.0
+        ]
+      ],
+      "min_scanner_lab_distance": 53.57759862731494
+    },
+    "16": {
+      "indices": [
+        0,
+        4095,
+        15,
+        240,
+        3840,
+        3915,
+        4032,
+        143,
+        132,
+        2660,
+        261,
+        155,
+        3320,
+        2409,
+        254,
+        2381
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          0,
+          0,
+          255
+        ],
+        [
+          0,
+          255,
+          0
+        ],
+        [
+          255,
+          0,
+          0
+        ],
+        [
+          255,
+          68,
+          187
+        ],
+        [
+          255,
+          204,
+          0
+        ],
+        [
+          0,
+          136,
+          255
+        ],
+        [
+          0,
+          136,
+          68
+        ],
+        [
+          170,
+          102,
+          68
+        ],
+        [
+          17,
+          0,
+          85
+        ],
+        [
+          0,
+          153,
+          187
+        ],
+        [
+          204,
+          255,
+          136
+        ],
+        [
+          153,
+          102,
+          153
+        ],
+        [
+          0,
+          255,
+          238
+        ],
+        [
+          153,
+          68,
+          221
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          68.0,
+          187.0
+        ],
+        [
+          255.0,
+          204.0,
+          0.0
+        ],
+        [
+          0.0,
+          136.0,
+          255.0
+        ],
+        [
+          0.0,
+          136.0,
+          68.0
+        ],
+        [
+          170.0,
+          102.0,
+          68.0
+        ],
+        [
+          17.0,
+          0.0,
+          85.0
+        ],
+        [
+          0.0,
+          153.0,
+          187.0
+        ],
+        [
+          204.0,
+          255.0,
+          136.0
+        ],
+        [
+          153.0,
+          102.0,
+          153.0
+        ],
+        [
+          0.0,
+          255.0,
+          238.0
+        ],
+        [
+          153.0,
+          68.0,
+          221.0
+        ]
+      ],
+      "min_scanner_lab_distance": 47.38677802301582
+    },
+    "20": {
+      "indices": [
+        0,
+        4095,
+        15,
+        240,
+        3840,
+        3915,
+        4032,
+        143,
+        132,
+        2660,
+        261,
+        155,
+        3320,
+        2409,
+        254,
+        2381,
+        3076,
+        2177,
+        3970,
+        248
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          0,
+          0,
+          255
+        ],
+        [
+          0,
+          255,
+          0
+        ],
+        [
+          255,
+          0,
+          0
+        ],
+        [
+          255,
+          68,
+          187
+        ],
+        [
+          255,
+          204,
+          0
+        ],
+        [
+          0,
+          136,
+          255
+        ],
+        [
+          0,
+          136,
+          68
+        ],
+        [
+          170,
+          102,
+          68
+        ],
+        [
+          17,
+          0,
+          85
+        ],
+        [
+          0,
+          153,
+          187
+        ],
+        [
+          204,
+          255,
+          136
+        ],
+        [
+          153,
+          102,
+          153
+        ],
+        [
+          0,
+          255,
+          238
+        ],
+        [
+          153,
+          68,
+          221
+        ],
+        [
+          204,
+          0,
+          68
+        ],
+        [
+          136,
+          136,
+          17
+        ],
+        [
+          255,
+          136,
+          34
+        ],
+        [
+          0,
+          255,
+          136
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          255.0,
+          255.0
+        ],
+        [
+          0.0,
+          0.0,
+          255.0
+        ],
+        [
+          0.0,
+          255.0,
+          0.0
+        ],
+        [
+          255.0,
+          0.0,
+          0.0
+        ],
+        [
+          255.0,
+          68.0,
+          187.0
+        ],
+        [
+          255.0,
+          204.0,
+          0.0
+        ],
+        [
+          0.0,
+          136.0,
+          255.0
+        ],
+        [
+          0.0,
+          136.0,
+          68.0
+        ],
+        [
+          170.0,
+          102.0,
+          68.0
+        ],
+        [
+          17.0,
+          0.0,
+          85.0
+        ],
+        [
+          0.0,
+          153.0,
+          187.0
+        ],
+        [
+          204.0,
+          255.0,
+          136.0
+        ],
+        [
+          153.0,
+          102.0,
+          153.0
+        ],
+        [
+          0.0,
+          255.0,
+          238.0
+        ],
+        [
+          153.0,
+          68.0,
+          221.0
+        ],
+        [
+          204.0,
+          0.0,
+          68.0
+        ],
+        [
+          136.0,
+          136.0,
+          17.0
+        ],
+        [
+          255.0,
+          136.0,
+          34.0
+        ],
+        [
+          0.0,
+          255.0,
+          136.0
+        ]
+      ],
+      "min_scanner_lab_distance": 41.67644497080868
+    }
+  },
+  "metrics": [
+    {
+      "label": "LARGE / 1 mm swatches",
+      "models": {
+        "center_only": {
+          "heldout_B_rgb_rmse": 0.0008987630022600096,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 12,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 16,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 20,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        },
+        "center_and_four_neighbors": {
+          "heldout_B_rgb_rmse": 0.0009020735540390403,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 12,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 16,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 20,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        }
+      }
+    },
+    {
+      "label": "DENSE / 200 cells/in",
+      "models": {
+        "center_only": {
+          "heldout_B_rgb_rmse": 0.0008987630022600096,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 12,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 16,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 20,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        },
+        "center_and_four_neighbors": {
+          "heldout_B_rgb_rmse": 0.0009020735540390403,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 12,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 16,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 20,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        }
+      }
+    },
+    {
+      "label": "DENSE / 300 cells/in",
+      "models": {
+        "center_only": {
+          "heldout_B_rgb_rmse": 0.0008987630022600096,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 12,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 16,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 20,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        },
+        "center_and_four_neighbors": {
+          "heldout_B_rgb_rmse": 0.0009020735540390403,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 12,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 16,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 20,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        }
+      }
+    }
+  ],
+  "geometry_checks": [
+    {
+      "split": "A",
+      "label": "LARGE / 1 mm swatches",
+      "exact_source_cells": 4096,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "split": "B",
+      "label": "LARGE / 1 mm swatches",
+      "exact_source_cells": 4096,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "split": "A",
+      "label": "DENSE / 200 cells/in",
+      "exact_source_cells": 4096,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "split": "B",
+      "label": "DENSE / 200 cells/in",
+      "exact_source_cells": 4096,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "split": "A",
+      "label": "DENSE / 300 cells/in",
+      "exact_source_cells": 4096,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "split": "B",
+      "label": "DENSE / 300 cells/in",
+      "exact_source_cells": 4096,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "limitations": [
+    "B selected-color checks have just one observation per class.",
+    "Scanner RGB-derived Lab is a heuristic, not calibrated colorimetry.",
+    "Dense targets contain all 4096 colors; selected-palette neighbor behavior requires a fresh print.",
+    "Calibration error is not payload BER or ECC recovery."
+  ]
+}

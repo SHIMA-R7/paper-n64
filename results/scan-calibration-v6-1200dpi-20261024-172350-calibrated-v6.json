@@ -1,0 +1,1058 @@
+{
+  "scan_file": "output\\paper-n64\\scan-calibration-v6-1200dpi-20261024-172350.bmp",
+  "rotation_180": false,
+  "calibration_only": true,
+  "fit_split": "A only",
+  "validation_split": "B, no fitting or model selection",
+  "palette_selection": "A large patches only; greedy max-min scanner RGB-derived Lab, 20 nested colors",
+  "palettes": {
+    "8": {
+      "indices": [
+        0,
+        4095,
+        3584,
+        3793,
+        95,
+        131,
+        2318,
+        2144
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          238,
+          0,
+          0
+        ],
+        [
+          238,
+          221,
+          17
+        ],
+        [
+          0,
+          85,
+          255
+        ],
+        [
+          0,
+          136,
+          51
+        ],
+        [
+          153,
+          0,
+          238
+        ],
+        [
+          136,
+          102,
+          0
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          1.0407340969980385,
+          1.6591084776987108,
+          0.47685213874255966
+        ],
+        [
+          243.75261024050988,
+          246.9499709028373,
+          243.82517429631903
+        ],
+        [
+          216.5996396248673,
+          69.19210623214525,
+          73.37124055788232
+        ],
+        [
+          227.95317495724552,
+          191.9161841866057,
+          55.83162003429845
+        ],
+        [
+          16.810688522390233,
+          118.08593031295224,
+          182.54517450290655
+        ],
+        [
+          68.60628024735419,
+          127.98215214586963,
+          73.5582725418119
+        ],
+        [
+          148.45958487249374,
+          61.94783259491969,
+          125.57330351771591
+        ],
+        [
+          118.03656825566901,
+          76.64067942885218,
+          36.07417609607688
+        ]
+      ],
+      "min_scanner_lab_distance": 46.66524752496502
+    },
+    "10": {
+      "indices": [
+        0,
+        4095,
+        3584,
+        3793,
+        95,
+        131,
+        2318,
+        2144,
+        3738,
+        492
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          238,
+          0,
+          0
+        ],
+        [
+          238,
+          221,
+          17
+        ],
+        [
+          0,
+          85,
+          255
+        ],
+        [
+          0,
+          136,
+          51
+        ],
+        [
+          153,
+          0,
+          238
+        ],
+        [
+          136,
+          102,
+          0
+        ],
+        [
+          238,
+          153,
+          170
+        ],
+        [
+          17,
+          238,
+          204
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          1.0407340969980385,
+          1.6591084776987108,
+          0.47685213874255966
+        ],
+        [
+          243.75261024050988,
+          246.9499709028373,
+          243.82517429631903
+        ],
+        [
+          216.5996396248673,
+          69.19210623214525,
+          73.37124055788232
+        ],
+        [
+          227.95317495724552,
+          191.9161841866057,
+          55.83162003429845
+        ],
+        [
+          16.810688522390233,
+          118.08593031295224,
+          182.54517450290655
+        ],
+        [
+          68.60628024735419,
+          127.98215214586963,
+          73.5582725418119
+        ],
+        [
+          148.45958487249374,
+          61.94783259491969,
+          125.57330351771591
+        ],
+        [
+          118.03656825566901,
+          76.64067942885218,
+          36.07417609607688
+        ],
+        [
+          230.40472977398454,
+          153.2109349784398,
+          164.84517037125997
+        ],
+        [
+          80.10634171665778,
+          178.230904333426,
+          189.88203811049812
+        ]
+      ],
+      "min_scanner_lab_distance": 40.2363517096812
+    },
+    "12": {
+      "indices": [
+        0,
+        4095,
+        3584,
+        3793,
+        95,
+        131,
+        2318,
+        2144,
+        3738,
+        492,
+        3047,
+        3971
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          238,
+          0,
+          0
+        ],
+        [
+          238,
+          221,
+          17
+        ],
+        [
+          0,
+          85,
+          255
+        ],
+        [
+          0,
+          136,
+          51
+        ],
+        [
+          153,
+          0,
+          238
+        ],
+        [
+          136,
+          102,
+          0
+        ],
+        [
+          238,
+          153,
+          170
+        ],
+        [
+          17,
+          238,
+          204
+        ],
+        [
+          187,
+          238,
+          119
+        ],
+        [
+          255,
+          136,
+          51
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          1.0407340969980385,
+          1.6591084776987108,
+          0.47685213874255966
+        ],
+        [
+          243.75261024050988,
+          246.9499709028373,
+          243.82517429631903
+        ],
+        [
+          216.5996396248673,
+          69.19210623214525,
+          73.37124055788232
+        ],
+        [
+          227.95317495724552,
+          191.9161841866057,
+          55.83162003429845
+        ],
+        [
+          16.810688522390233,
+          118.08593031295224,
+          182.54517450290655
+        ],
+        [
+          68.60628024735419,
+          127.98215214586963,
+          73.5582725418119
+        ],
+        [
+          148.45958487249374,
+          61.94783259491969,
+          125.57330351771591
+        ],
+        [
+          118.03656825566901,
+          76.64067942885218,
+          36.07417609607688
+        ],
+        [
+          230.40472977398454,
+          153.2109349784398,
+          164.84517037125997
+        ],
+        [
+          80.10634171665778,
+          178.230904333426,
+          189.88203811049812
+        ],
+        [
+          199.41787693754375,
+          215.77197213082076,
+          142.75295220025308
+        ],
+        [
+          240.91681654933345,
+          153.75169059310306,
+          92.37733574415087
+        ]
+      ],
+      "min_scanner_lab_distance": 36.910657334157136
+    },
+    "16": {
+      "indices": [
+        0,
+        4095,
+        3584,
+        3793,
+        95,
+        131,
+        2318,
+        2144,
+        3738,
+        492,
+        3047,
+        3971,
+        1382,
+        6,
+        1810,
+        2686
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          238,
+          0,
+          0
+        ],
+        [
+          238,
+          221,
+          17
+        ],
+        [
+          0,
+          85,
+          255
+        ],
+        [
+          0,
+          136,
+          51
+        ],
+        [
+          153,
+          0,
+          238
+        ],
+        [
+          136,
+          102,
+          0
+        ],
+        [
+          238,
+          153,
+          170
+        ],
+        [
+          17,
+          238,
+          204
+        ],
+        [
+          187,
+          238,
+          119
+        ],
+        [
+          255,
+          136,
+          51
+        ],
+        [
+          85,
+          102,
+          102
+        ],
+        [
+          0,
+          0,
+          102
+        ],
+        [
+          119,
+          17,
+          34
+        ],
+        [
+          170,
+          119,
+          238
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          1.0407340969980385,
+          1.6591084776987108,
+          0.47685213874255966
+        ],
+        [
+          243.75261024050988,
+          246.9499709028373,
+          243.82517429631903
+        ],
+        [
+          216.5996396248673,
+          69.19210623214525,
+          73.37124055788232
+        ],
+        [
+          227.95317495724552,
+          191.9161841866057,
+          55.83162003429845
+        ],
+        [
+          16.810688522390233,
+          118.08593031295224,
+          182.54517450290655
+        ],
+        [
+          68.60628024735419,
+          127.98215214586963,
+          73.5582725418119
+        ],
+        [
+          148.45958487249374,
+          61.94783259491969,
+          125.57330351771591
+        ],
+        [
+          118.03656825566901,
+          76.64067942885218,
+          36.07417609607688
+        ],
+        [
+          230.40472977398454,
+          153.2109349784398,
+          164.84517037125997
+        ],
+        [
+          80.10634171665778,
+          178.230904333426,
+          189.88203811049812
+        ],
+        [
+          199.41787693754375,
+          215.77197213082076,
+          142.75295220025308
+        ],
+        [
+          240.91681654933345,
+          153.75169059310306,
+          92.37733574415087
+        ],
+        [
+          72.66255379828178,
+          87.86787315555125,
+          83.99388283713431
+        ],
+        [
+          18.273866827387298,
+          37.254535195678066,
+          81.25453519567807
+        ],
+        [
+          88.66340041186592,
+          26.061102641242517,
+          40.099723978868475
+        ],
+        [
+          171.5464541721974,
+          167.6060049663322,
+          203.92984358100162
+        ]
+      ],
+      "min_scanner_lab_distance": 32.203150424354625
+    },
+    "20": {
+      "indices": [
+        0,
+        4095,
+        3584,
+        3793,
+        95,
+        131,
+        2318,
+        2144,
+        3738,
+        492,
+        3047,
+        3971,
+        1382,
+        6,
+        1810,
+        2686,
+        2450,
+        2198,
+        3932,
+        1184
+      ],
+      "rgb": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          238,
+          0,
+          0
+        ],
+        [
+          238,
+          221,
+          17
+        ],
+        [
+          0,
+          85,
+          255
+        ],
+        [
+          0,
+          136,
+          51
+        ],
+        [
+          153,
+          0,
+          238
+        ],
+        [
+          136,
+          102,
+          0
+        ],
+        [
+          238,
+          153,
+          170
+        ],
+        [
+          17,
+          238,
+          204
+        ],
+        [
+          187,
+          238,
+          119
+        ],
+        [
+          255,
+          136,
+          51
+        ],
+        [
+          85,
+          102,
+          102
+        ],
+        [
+          0,
+          0,
+          102
+        ],
+        [
+          119,
+          17,
+          34
+        ],
+        [
+          170,
+          119,
+          238
+        ],
+        [
+          153,
+          153,
+          34
+        ],
+        [
+          136,
+          153,
+          102
+        ],
+        [
+          255,
+          85,
+          204
+        ],
+        [
+          68,
+          170,
+          0
+        ]
+      ],
+      "measured_rgb_A": [
+        [
+          1.0407340969980385,
+          1.6591084776987108,
+          0.47685213874255966
+        ],
+        [
+          243.75261024050988,
+          246.9499709028373,
+          243.82517429631903
+        ],
+        [
+          216.5996396248673,
+          69.19210623214525,
+          73.37124055788232
+        ],
+        [
+          227.95317495724552,
+          191.9161841866057,
+          55.83162003429845
+        ],
+        [
+          16.810688522390233,
+          118.08593031295224,
+          182.54517450290655
+        ],
+        [
+          68.60628024735419,
+          127.98215214586963,
+          73.5582725418119
+        ],
+        [
+          148.45958487249374,
+          61.94783259491969,
+          125.57330351771591
+        ],
+        [
+          118.03656825566901,
+          76.64067942885218,
+          36.07417609607688
+        ],
+        [
+          230.40472977398454,
+          153.2109349784398,
+          164.84517037125997
+        ],
+        [
+          80.10634171665778,
+          178.230904333426,
+          189.88203811049812
+        ],
+        [
+          199.41787693754375,
+          215.77197213082076,
+          142.75295220025308
+        ],
+        [
+          240.91681654933345,
+          153.75169059310306,
+          92.37733574415087
+        ],
+        [
+          72.66255379828178,
+          87.86787315555125,
+          83.99388283713431
+        ],
+        [
+          18.273866827387298,
+          37.254535195678066,
+          81.25453519567807
+        ],
+        [
+          88.66340041186592,
+          26.061102641242517,
+          40.099723978868475
+        ],
+        [
+          171.5464541721974,
+          167.6060049663322,
+          203.92984358100162
+        ],
+        [
+          153.5384220893884,
+          136.01065711307817,
+          55.33976516793151
+        ],
+        [
+          152.56787439471967,
+          153.20742314016346,
+          128.0035728997158
+        ],
+        [
+          223.1369313264758,
+          92.54905427287252,
+          136.97996038700143
+        ],
+        [
+          119.32765859632228,
+          161.78881260179188,
+          55.4258067044129
+        ]
+      ],
+      "min_scanner_lab_distance": 28.497745561539716
+    }
+  },
+  "metrics": [
+    {
+      "label": "LARGE / 1 mm swatches",
+      "models": {
+        "center_only": {
+          "heldout_B_rgb_rmse": 20.144708388063833,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 11,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 15,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 19,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        },
+        "center_and_four_neighbors": {
+          "heldout_B_rgb_rmse": 20.117100780846418,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 11,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 15,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 19,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        }
+      }
+    },
+    {
+      "label": "DENSE / 200 cells/in",
+      "models": {
+        "center_only": {
+          "heldout_B_rgb_rmse": 34.79058413479233,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 12,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 15,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 17,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        },
+        "center_and_four_neighbors": {
+          "heldout_B_rgb_rmse": 33.20013903924563,
+          "selected_color_checks": {
+            "8": {
+              "correct": 8,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 10,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 12,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 16,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 18,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        }
+      }
+    },
+    {
+      "label": "DENSE / 300 cells/in",
+      "models": {
+        "center_only": {
+          "heldout_B_rgb_rmse": 75.73649887496957,
+          "selected_color_checks": {
+            "8": {
+              "correct": 3,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 2,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 3,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 1,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 2,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        },
+        "center_and_four_neighbors": {
+          "heldout_B_rgb_rmse": 75.43371063150097,
+          "selected_color_checks": {
+            "8": {
+              "correct": 1,
+              "samples": 8,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "10": {
+              "correct": 1,
+              "samples": 10,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "12": {
+              "correct": 2,
+              "samples": 12,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "16": {
+              "correct": 0,
+              "samples": 16,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            },
+            "20": {
+              "correct": 2,
+              "samples": 20,
+              "note": "Only one B sample per selected color, with neighbors drawn from all 4096 colors; not a payload benchmark."
+            }
+          }
+        }
+      }
+    }
+  ],
+  "geometry_checks": [
+    {
+      "split": "A",
+      "label": "LARGE / 1 mm swatches",
+      "exact_source_cells": 0,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "split": "B",
+      "label": "LARGE / 1 mm swatches",
+      "exact_source_cells": 0,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "split": "A",
+      "label": "DENSE / 200 cells/in",
+      "exact_source_cells": 0,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        -0.16800000000000004,
+        -0.17600000000000002,
+        1.00176,
+        0.99888
+      ]
+    },
+    {
+      "split": "B",
+      "label": "DENSE / 200 cells/in",
+      "exact_source_cells": 0,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        -0.10400000000000001,
+        -0.096,
+        0.9982399999999999,
+        0.99952
+      ]
+    },
+    {
+      "split": "A",
+      "label": "DENSE / 300 cells/in",
+      "exact_source_cells": 0,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        -0.392,
+        -0.032,
+        1.00016,
+        0.9952
+      ]
+    },
+    {
+      "split": "B",
+      "label": "DENSE / 300 cells/in",
+      "exact_source_cells": 0,
+      "cells": 4096,
+      "blind_grid_parameters": [
+        -0.16800000000000004,
+        -0.376,
+        1.0008000000000001,
+        1.00784
+      ]
+    }
+  ],
+  "limitations": [
+    "B selected-color checks have just one observation per class.",
+    "Scanner RGB-derived Lab is a heuristic, not calibrated colorimetry.",
+    "Dense targets contain all 4096 colors; selected-palette neighbor behavior requires a fresh print.",
+    "Calibration error is not payload BER or ECC recovery."
+  ]
+}

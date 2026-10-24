@@ -1,0 +1,33 @@
+{
+  "image": "output\\paper-n64\\scan-smw-v8-crumpled-1200dpi-20261024-202805.bmp",
+  "whole_tiles": 323,
+  "unknown_data_bytes": 0,
+  "iterations": [
+    {
+      "iteration": 0,
+      "known_bytes": 357048,
+      "xor_bytes": 0,
+      "outer_bytes": 18560,
+      "padding_bytes": 0
+    },
+    {
+      "iteration": 1,
+      "known_bytes": 357048,
+      "xor_bytes": 0,
+      "outer_bytes": 0,
+      "padding_bytes": 0
+    }
+  ],
+  "complete": true,
+  "file": {
+    "format": 8,
+    "name": "SuperMarioWorld.sfc",
+    "raw_bytes": 524288,
+    "raw_sha256": "c6808e082ab343be554d07f2b3eb157c3c5134b364a2ffb3806a67f17e0992d0",
+    "compression": "xz",
+    "compressed_bytes": 313572,
+    "compressed_sha256": "f24a8871fcf63559f2b3a1f845813a45678e81a2e3f1318da98fce9781bd4bce"
+  },
+  "restored_file": "restored-SuperMarioWorld.sfc",
+  "original_exact_match": true
+}

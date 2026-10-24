@@ -1,0 +1,1071 @@
+{
+  "image": "output\\paper-n64\\scan-calibrated-v7-1200dpi-20261024-185950.bmp",
+  "focus": "8 and 16 colors, all densities",
+  "exploratory_same_scan": true,
+  "panels": [
+    {
+      "density": 200,
+      "colors": 8,
+      "source_exact_palette": false,
+      "calibration_parameters": [
+        -0.18125,
+        -0.16124999999999998,
+        1.0020999999999998,
+        1.0017999999999998
+      ],
+      "calibration_validation_accuracy": 0.9936305732484076,
+      "calibration_model_neighbor_cancel": true,
+      "actual_decoder_candidates": [
+        {
+          "name": "calibration_transfer",
+          "parameters": [
+            -0.1140500000000074,
+            -0.10365000000000632,
+            1.0020999999999998,
+            1.0017999999999998
+          ],
+          "symbol_accuracy": 0.9557291666666666,
+          "sha256_match": true,
+          "rs_crc_blocks": 16,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": true,
+          "details": [
+            {
+              "block": 0,
+              "erased_bytes": 4,
+              "corrected_bytes": 13
+            },
+            {
+              "block": 1,
+              "erased_bytes": 6,
+              "corrected_bytes": 21
+            },
+            {
+              "block": 2,
+              "erased_bytes": 8,
+              "corrected_bytes": 23
+            },
+            {
+              "block": 3,
+              "erased_bytes": 6,
+              "corrected_bytes": 13
+            },
+            {
+              "block": 4,
+              "erased_bytes": 10,
+              "corrected_bytes": 18
+            },
+            {
+              "block": 5,
+              "erased_bytes": 6,
+              "corrected_bytes": 21
+            },
+            {
+              "block": 6,
+              "erased_bytes": 6,
+              "corrected_bytes": 23
+            },
+            {
+              "block": 7,
+              "erased_bytes": 8,
+              "corrected_bytes": 27
+            },
+            {
+              "block": 8,
+              "erased_bytes": 4,
+              "corrected_bytes": 14
+            },
+            {
+              "block": 9,
+              "erased_bytes": 6,
+              "corrected_bytes": 19
+            },
+            {
+              "block": 10,
+              "erased_bytes": 6,
+              "corrected_bytes": 15
+            },
+            {
+              "block": 11,
+              "erased_bytes": 6,
+              "corrected_bytes": 20
+            },
+            {
+              "block": 12,
+              "erased_bytes": 4,
+              "corrected_bytes": 17
+            },
+            {
+              "block": 13,
+              "erased_bytes": 10,
+              "corrected_bytes": 22
+            },
+            {
+              "block": 14,
+              "erased_bytes": 10,
+              "corrected_bytes": 23
+            },
+            {
+              "block": 15,
+              "erased_bytes": 2,
+              "corrected_bytes": 20
+            }
+          ]
+        },
+        {
+          "name": "calibration_guided_blind_contrast",
+          "parameters": [
+            -0.06905000000000741,
+            0.0013499999999937139,
+            1.0042999999999997,
+            1.0044999999999997
+          ],
+          "symbol_accuracy": 0.984375,
+          "sha256_match": true,
+          "rs_crc_blocks": 16,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": true,
+          "details": [
+            {
+              "block": 0,
+              "erased_bytes": 2,
+              "corrected_bytes": 7
+            },
+            {
+              "block": 1,
+              "erased_bytes": 0,
+              "corrected_bytes": 3
+            },
+            {
+              "block": 2,
+              "erased_bytes": 0,
+              "corrected_bytes": 2
+            },
+            {
+              "block": 3,
+              "erased_bytes": 4,
+              "corrected_bytes": 7
+            },
+            {
+              "block": 4,
+              "erased_bytes": 0,
+              "corrected_bytes": 4
+            },
+            {
+              "block": 5,
+              "erased_bytes": 4,
+              "corrected_bytes": 9
+            },
+            {
+              "block": 6,
+              "erased_bytes": 2,
+              "corrected_bytes": 7
+            },
+            {
+              "block": 7,
+              "erased_bytes": 4,
+              "corrected_bytes": 11
+            },
+            {
+              "block": 8,
+              "erased_bytes": 2,
+              "corrected_bytes": 7
+            },
+            {
+              "block": 9,
+              "erased_bytes": 2,
+              "corrected_bytes": 7
+            },
+            {
+              "block": 10,
+              "erased_bytes": 4,
+              "corrected_bytes": 6
+            },
+            {
+              "block": 11,
+              "erased_bytes": 2,
+              "corrected_bytes": 5
+            },
+            {
+              "block": 12,
+              "erased_bytes": 2,
+              "corrected_bytes": 6
+            },
+            {
+              "block": 13,
+              "erased_bytes": 2,
+              "corrected_bytes": 3
+            },
+            {
+              "block": 14,
+              "erased_bytes": 4,
+              "corrected_bytes": 13
+            },
+            {
+              "block": 15,
+              "erased_bytes": 2,
+              "corrected_bytes": 6
+            }
+          ]
+        }
+      ],
+      "oracle_diagnostic_only": {
+        "note": "Reference-assisted, NOT actual decoding. Geometric and color model fitting use payload labels in 80% of interior cells. Scores are on the withheld 20%.",
+        "heldout_cells": 1694,
+        "global_parameters": [
+          -0.08875,
+          0.006249999999999999,
+          1.0038999999999998,
+          1.005
+        ],
+        "global_heldout_accuracy": {
+          "center_qda": 0.9781582054309327,
+          "neighbor_qda": 0.9852420306965761
+        },
+        "local_strip_parameters": [
+          [
+            -0.06874999999999999,
+            0.016250000000000004,
+            1.0033999999999998,
+            1.0045
+          ],
+          [
+            -0.08249999999999999,
+            0.095,
+            1.0038999999999998,
+            1.0109999999999997
+          ],
+          [
+            -0.08875,
+            0.0,
+            1.0038999999999998,
+            0.9968999999999999
+          ],
+          [
+            -0.11499999999999999,
+            -0.13625,
+            1.0029,
+            1.0170000000000001
+          ],
+          [
+            -0.11499999999999999,
+            0.19999999999999998,
+            1.0038999999999998,
+            1.0010999999999999
+          ],
+          [
+            -0.095,
+            -0.06375,
+            1.0038999999999998,
+            1.005
+          ]
+        ],
+        "local_heldout_accuracy": {
+          "center_qda": 0.9817001180637545,
+          "neighbor_qda": 0.9923258559622196
+        }
+      }
+    },
+    {
+      "density": 200,
+      "colors": 16,
+      "source_exact_palette": false,
+      "calibration_parameters": [
+        -0.11124999999999999,
+        0.06875,
+        1.0011,
+        0.9972999999999999
+      ],
+      "calibration_validation_accuracy": 0.9426751592356688,
+      "calibration_model_neighbor_cancel": false,
+      "actual_decoder_candidates": [
+        {
+          "name": "calibration_transfer",
+          "parameters": [
+            -0.07604999999999676,
+            -0.01765000000000469,
+            1.0011,
+            0.9972999999999999
+          ],
+          "symbol_accuracy": 0.693359375,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        },
+        {
+          "name": "calibration_guided_blind_contrast",
+          "parameters": [
+            -0.0010499999999967723,
+            0.1923499999999953,
+            1.002,
+            1.0029
+          ],
+          "symbol_accuracy": 0.8955078125,
+          "sha256_match": true,
+          "rs_crc_blocks": 15,
+          "total_blocks": 16,
+          "xor_recovered": [
+            14
+          ],
+          "complete": true,
+          "details": [
+            {
+              "block": 0,
+              "erased_bytes": 0,
+              "corrected_bytes": 25
+            },
+            {
+              "block": 1,
+              "erased_bytes": 0,
+              "corrected_bytes": 26
+            },
+            {
+              "block": 2,
+              "erased_bytes": 0,
+              "corrected_bytes": 26
+            },
+            {
+              "block": 3,
+              "erased_bytes": 0,
+              "corrected_bytes": 32
+            },
+            {
+              "block": 4,
+              "erased_bytes": 0,
+              "corrected_bytes": 22
+            },
+            {
+              "block": 5,
+              "erased_bytes": 0,
+              "corrected_bytes": 26
+            },
+            {
+              "block": 6,
+              "erased_bytes": 0,
+              "corrected_bytes": 20
+            },
+            {
+              "block": 7,
+              "erased_bytes": 0,
+              "corrected_bytes": 22
+            },
+            {
+              "block": 8,
+              "erased_bytes": 0,
+              "corrected_bytes": 30
+            },
+            {
+              "block": 9,
+              "erased_bytes": 0,
+              "corrected_bytes": 25
+            },
+            {
+              "block": 10,
+              "erased_bytes": 0,
+              "corrected_bytes": 18
+            },
+            {
+              "block": 11,
+              "erased_bytes": 0,
+              "corrected_bytes": 30
+            },
+            {
+              "block": 12,
+              "erased_bytes": 0,
+              "corrected_bytes": 21
+            },
+            {
+              "block": 13,
+              "erased_bytes": 0,
+              "corrected_bytes": 27
+            },
+            {
+              "block": 15,
+              "erased_bytes": 0,
+              "corrected_bytes": 25
+            }
+          ]
+        }
+      ],
+      "oracle_diagnostic_only": {
+        "note": "Reference-assisted, NOT actual decoding. Geometric and color model fitting use payload labels in 80% of interior cells. Scores are on the withheld 20%.",
+        "heldout_cells": 1694,
+        "global_parameters": [
+          -0.026250000000000002,
+          0.18125,
+          1.0026,
+          1.0045
+        ],
+        "global_heldout_accuracy": {
+          "center_qda": 0.9185360094451004,
+          "neighbor_qda": 0.9397874852420307
+        },
+        "local_strip_parameters": [
+          [
+            -0.04000000000000001,
+            0.2375,
+            1.0026,
+            1.0045
+          ],
+          [
+            6.938893903907228e-18,
+            0.25,
+            1.001,
+            1.0094999999999998
+          ],
+          [
+            0.0,
+            0.175,
+            1.0014999999999998,
+            0.994
+          ],
+          [
+            -0.0325,
+            0.14875,
+            1.0030999999999999,
+            1.0075999999999998
+          ],
+          [
+            -0.0325,
+            0.43125,
+            1.0026,
+            0.999
+          ],
+          [
+            -0.020000000000000004,
+            0.10499999999999998,
+            1.0014999999999998,
+            1.0045
+          ]
+        ],
+        "local_heldout_accuracy": {
+          "center_qda": 0.9203069657615112,
+          "neighbor_qda": 0.9504132231404959
+        }
+      }
+    },
+    {
+      "density": 250,
+      "colors": 8,
+      "source_exact_palette": false,
+      "calibration_parameters": [
+        -0.22999999999999998,
+        -0.27875,
+        1.0011,
+        0.9954999999999999
+      ],
+      "calibration_validation_accuracy": 0.9171974522292994,
+      "calibration_model_neighbor_cancel": true,
+      "actual_decoder_candidates": [
+        {
+          "name": "calibration_transfer",
+          "parameters": [
+            -0.19479999999999675,
+            -0.4227500000000019,
+            1.0011,
+            0.9954999999999999
+          ],
+          "symbol_accuracy": 0.720703125,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        },
+        {
+          "name": "calibration_guided_blind_contrast",
+          "parameters": [
+            -0.32479999999999676,
+            -0.4377500000000019,
+            1.0041,
+            0.9964
+          ],
+          "symbol_accuracy": 0.8334418402777778,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        }
+      ],
+      "oracle_diagnostic_only": {
+        "note": "Reference-assisted, NOT actual decoding. Geometric and color model fitting use payload labels in 80% of interior cells. Scores are on the withheld 20%.",
+        "heldout_cells": 1694,
+        "global_parameters": [
+          -0.375,
+          -0.42374999999999996,
+          1.0029,
+          0.9954999999999999
+        ],
+        "global_heldout_accuracy": {
+          "center_qda": 0.8034238488783944,
+          "neighbor_qda": 0.8742621015348289
+        },
+        "local_strip_parameters": [
+          [
+            -0.3325,
+            -0.6174999999999999,
+            1.0033999999999998,
+            0.9904999999999999
+          ],
+          [
+            -0.34625,
+            -0.39375,
+            1.0024,
+            0.9945
+          ],
+          [
+            -0.36875,
+            -0.42999999999999994,
+            1.0029,
+            0.9945
+          ],
+          [
+            -0.395,
+            -0.6349999999999999,
+            1.0029,
+            1.0091999999999997
+          ],
+          [
+            -0.395,
+            -0.33499999999999996,
+            1.0029,
+            0.99
+          ],
+          [
+            -0.4175,
+            -0.39375,
+            1.0024,
+            0.9959999999999999
+          ]
+        ],
+        "local_heldout_accuracy": {
+          "center_qda": 0.8099173553719008,
+          "neighbor_qda": 0.8778040141676505
+        }
+      }
+    },
+    {
+      "density": 250,
+      "colors": 16,
+      "source_exact_palette": false,
+      "calibration_parameters": [
+        -0.20750000000000002,
+        -0.06875,
+        1.0054999999999998,
+        0.9966
+      ],
+      "calibration_validation_accuracy": 0.7070063694267515,
+      "calibration_model_neighbor_cancel": true,
+      "actual_decoder_candidates": [
+        {
+          "name": "calibration_transfer",
+          "parameters": [
+            -0.03150000000000519,
+            -0.17754999999999868,
+            1.0054999999999998,
+            0.9966
+          ],
+          "symbol_accuracy": 0.5368923611111112,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        },
+        {
+          "name": "calibration_guided_blind_contrast",
+          "parameters": [
+            -0.1465000000000052,
+            -0.2925499999999987,
+            1.0024,
+            0.9979
+          ],
+          "symbol_accuracy": 0.669921875,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        }
+      ],
+      "oracle_diagnostic_only": {
+        "note": "Reference-assisted, NOT actual decoding. Geometric and color model fitting use payload labels in 80% of interior cells. Scores are on the withheld 20%.",
+        "heldout_cells": 1694,
+        "global_parameters": [
+          -0.1875,
+          -0.28375,
+          1.0021,
+          0.9971
+        ],
+        "global_heldout_accuracy": {
+          "center_qda": 0.6233766233766234,
+          "neighbor_qda": 0.6959858323494688
+        },
+        "local_strip_parameters": [
+          [
+            -0.18125,
+            -0.29750000000000004,
+            1.0032,
+            0.9971
+          ],
+          [
+            -0.19375,
+            -0.25375000000000003,
+            1.0014999999999998,
+            0.9961000000000001
+          ],
+          [
+            -0.2,
+            -0.2575,
+            1.0021,
+            0.9975999999999999
+          ],
+          [
+            -0.20125,
+            -0.4387499999999999,
+            1.0021,
+            1.0045000000000002
+          ],
+          [
+            -0.175,
+            -0.46499999999999997,
+            1.0021,
+            1.0011
+          ],
+          [
+            -0.16000000000000003,
+            -0.0075,
+            1.0021,
+            0.9921
+          ]
+        ],
+        "local_heldout_accuracy": {
+          "center_qda": 0.6227863046044865,
+          "neighbor_qda": 0.7077922077922078
+        }
+      }
+    },
+    {
+      "density": 300,
+      "colors": 8,
+      "source_exact_palette": false,
+      "calibration_parameters": [
+        -0.15125000000000002,
+        -0.31875,
+        1.0005,
+        0.9979
+      ],
+      "calibration_validation_accuracy": 0.8152866242038217,
+      "calibration_model_neighbor_cancel": true,
+      "actual_decoder_candidates": [
+        {
+          "name": "calibration_transfer",
+          "parameters": [
+            -0.13525000000000179,
+            -0.3859499999999997,
+            1.0005,
+            0.9979
+          ],
+          "symbol_accuracy": 0.8055555555555556,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        },
+        {
+          "name": "calibration_guided_blind_contrast",
+          "parameters": [
+            -0.11025000000000179,
+            -0.47094999999999965,
+            1.0011999999999999,
+            0.9974
+          ],
+          "symbol_accuracy": 0.7623697916666666,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        }
+      ],
+      "oracle_diagnostic_only": {
+        "note": "Reference-assisted, NOT actual decoding. Geometric and color model fitting use payload labels in 80% of interior cells. Scores are on the withheld 20%.",
+        "heldout_cells": 1694,
+        "global_parameters": [
+          -0.10250000000000001,
+          -0.31875,
+          1.0029,
+          0.9961000000000001
+        ],
+        "global_heldout_accuracy": {
+          "center_qda": 0.7036599763872491,
+          "neighbor_qda": 0.8034238488783944
+        },
+        "local_strip_parameters": [
+          [
+            -0.11625000000000002,
+            -0.5549999999999999,
+            1.0033999999999998,
+            0.9911000000000001
+          ],
+          [
+            -0.13625,
+            -0.3125,
+            1.0029,
+            0.9966
+          ],
+          [
+            -0.11625000000000002,
+            -0.23624999999999996,
+            1.004,
+            1.0072
+          ],
+          [
+            -0.09625,
+            -0.21124999999999997,
+            1.0033999999999998,
+            0.9886000000000001
+          ],
+          [
+            -0.0825,
+            -0.54875,
+            1.0024,
+            1.004
+          ],
+          [
+            -0.10250000000000001,
+            -0.34874999999999995,
+            1.0029,
+            0.9956000000000002
+          ]
+        ],
+        "local_heldout_accuracy": {
+          "center_qda": 0.7036599763872491,
+          "neighbor_qda": 0.80814639905549
+        }
+      }
+    },
+    {
+      "density": 300,
+      "colors": 16,
+      "source_exact_palette": false,
+      "calibration_parameters": [
+        0.05,
+        -0.30625,
+        1.0033999999999998,
+        0.9977999999999999
+      ],
+      "calibration_validation_accuracy": 0.554140127388535,
+      "calibration_model_neighbor_cancel": true,
+      "actual_decoder_candidates": [
+        {
+          "name": "calibration_transfer",
+          "parameters": [
+            0.1587999999999951,
+            -0.3766500000000029,
+            1.0033999999999998,
+            0.9977999999999999
+          ],
+          "symbol_accuracy": 0.5137803819444444,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        },
+        {
+          "name": "calibration_guided_blind_contrast",
+          "parameters": [
+            0.0537999999999951,
+            -0.3716500000000029,
+            1.0038999999999998,
+            0.9922
+          ],
+          "symbol_accuracy": 0.5263671875,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        }
+      ],
+      "oracle_diagnostic_only": {
+        "note": "Reference-assisted, NOT actual decoding. Geometric and color model fitting use payload labels in 80% of interior cells. Scores are on the withheld 20%.",
+        "heldout_cells": 1694,
+        "global_parameters": [
+          0.08875,
+          -0.44375,
+          1.0029,
+          0.9979
+        ],
+        "global_heldout_accuracy": {
+          "center_qda": 0.4769775678866588,
+          "neighbor_qda": 0.5838252656434475
+        },
+        "local_strip_parameters": [
+          [
+            0.15125,
+            -0.6799999999999999,
+            1.0024,
+            0.9929
+          ],
+          [
+            0.07499999999999998,
+            -0.4575,
+            1.0029,
+            0.9979
+          ],
+          [
+            0.019999999999999997,
+            -0.36124999999999996,
+            1.0033999999999998,
+            1.009
+          ],
+          [
+            0.04625,
+            -0.2525,
+            1.0017999999999998,
+            0.9859999999999999
+          ],
+          [
+            0.095,
+            -0.6875,
+            1.0024,
+            1.0079
+          ],
+          [
+            0.095,
+            -0.49249999999999994,
+            1.0033999999999998,
+            0.9979
+          ]
+        ],
+        "local_heldout_accuracy": {
+          "center_qda": 0.4846517119244392,
+          "neighbor_qda": 0.5979929161747344
+        }
+      }
+    },
+    {
+      "density": 400,
+      "colors": 8,
+      "source_exact_palette": false,
+      "calibration_parameters": [
+        -0.03625,
+        0.28625,
+        1.0021,
+        1.0005
+      ],
+      "calibration_validation_accuracy": 0.46496815286624205,
+      "calibration_model_neighbor_cancel": true,
+      "actual_decoder_candidates": [
+        {
+          "name": "calibration_transfer",
+          "parameters": [
+            0.030949999999999707,
+            0.30224999999999824,
+            1.0021,
+            1.0005
+          ],
+          "symbol_accuracy": 0.1978081597222222,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        },
+        {
+          "name": "calibration_guided_blind_contrast",
+          "parameters": [
+            0.0859499999999997,
+            0.4772499999999983,
+            1.0026,
+            1.0061
+          ],
+          "symbol_accuracy": 0.169921875,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        }
+      ],
+      "oracle_diagnostic_only": {
+        "note": "Reference-assisted, NOT actual decoding. Geometric and color model fitting use payload labels in 80% of interior cells. Scores are on the withheld 20%.",
+        "heldout_cells": 1694,
+        "global_parameters": [
+          -0.48624999999999996,
+          -0.06875,
+          1.0054999999999998,
+          0.9954999999999999
+        ],
+        "global_heldout_accuracy": {
+          "center_qda": 0.4935064935064935,
+          "neighbor_qda": 0.49940968122786306
+        },
+        "local_strip_parameters": [
+          [
+            -0.46624999999999994,
+            -0.1575,
+            1.0059999999999998,
+            0.9954999999999999
+          ],
+          [
+            -0.48,
+            0.03875,
+            1.005,
+            1.0026
+          ],
+          [
+            -0.48624999999999996,
+            -0.0625,
+            1.0054999999999998,
+            0.9793999999999998
+          ],
+          [
+            -0.5,
+            -0.08875000000000001,
+            1.005,
+            0.995
+          ],
+          [
+            -0.5149999999999999,
+            0.145,
+            1.0059999999999998,
+            0.99
+          ],
+          [
+            -0.48,
+            -0.03875000000000001,
+            1.0054999999999998,
+            0.9909999999999999
+          ]
+        ],
+        "local_heldout_accuracy": {
+          "center_qda": 0.49409681227863045,
+          "neighbor_qda": 0.5165289256198347
+        }
+      }
+    },
+    {
+      "density": 400,
+      "colors": 16,
+      "source_exact_palette": false,
+      "calibration_parameters": [
+        -0.5825,
+        0.2425,
+        1.0021,
+        0.9954999999999999
+      ],
+      "calibration_validation_accuracy": 0.35668789808917195,
+      "calibration_model_neighbor_cancel": true,
+      "actual_decoder_candidates": [
+        {
+          "name": "calibration_transfer",
+          "parameters": [
+            -0.5153000000000003,
+            0.09849999999999809,
+            1.0021,
+            0.9954999999999999
+          ],
+          "symbol_accuracy": 0.3095703125,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        },
+        {
+          "name": "calibration_guided_blind_contrast",
+          "parameters": [
+            -0.29030000000000034,
+            0.2834999999999981,
+            0.9994999999999999,
+            0.9931
+          ],
+          "symbol_accuracy": 0.2568359375,
+          "sha256_match": false,
+          "rs_crc_blocks": 0,
+          "total_blocks": 16,
+          "xor_recovered": [],
+          "complete": false,
+          "details": []
+        }
+      ],
+      "oracle_diagnostic_only": {
+        "note": "Reference-assisted, NOT actual decoding. Geometric and color model fitting use payload labels in 80% of interior cells. Scores are on the withheld 20%.",
+        "heldout_cells": 1694,
+        "global_parameters": [
+          -0.27875,
+          0.026250000000000002,
+          1.0006000000000002,
+          0.9954999999999999
+        ],
+        "global_heldout_accuracy": {
+          "center_qda": 0.3004722550177096,
+          "neighbor_qda": 0.30283353010625735
+        },
+        "local_strip_parameters": [
+          [
+            -0.27875,
+            -0.0625,
+            1.0022000000000002,
+            0.9954999999999999
+          ],
+          [
+            -0.26499999999999996,
+            0.0325,
+            0.9996000000000002,
+            0.9975999999999999
+          ],
+          [
+            -0.285,
+            0.052500000000000005,
+            0.9996000000000002,
+            0.9825999999999999
+          ],
+          [
+            -0.305,
+            -0.006250000000000002,
+            1.0022000000000002,
+            0.9947
+          ],
+          [
+            -0.29875,
+            0.23375,
+            1.0006000000000002,
+            0.9904999999999999
+          ],
+          [
+            -0.23625000000000002,
+            0.12125,
+            1.0017000000000003,
+            0.99
+          ]
+        ],
+        "local_heldout_accuracy": {
+          "center_qda": 0.31286894923258557,
+          "neighbor_qda": 0.31286894923258557
+        }
+      }
+    }
+  ]
+}
